@@ -1,0 +1,84 @@
+{
+  "author": "Franziska Klausmann",
+  "canonical_url": "https://www.einfachbacken.de/rezepte/spekulatius-torte-ohne-backen-das-beste-rezept",
+  "site_name": "Einfach Backen",
+  "host": "einfachbacken.de",
+  "language": "de",
+  "title": "Spekulatius-Torte ohne Backen ¬– das beste Rezept",
+  "ingredients": [
+    "250 g Spekulatius - Kekse",
+    "100 g Butter",
+    "2 kleine Dosen Mandarine",
+    "4 Blatt Gelatine",
+    "400 g Doppelrahmfrischkäse",
+    "200 g Schmand",
+    "150 g Zucker",
+    "200 g Sahne",
+    "2 TL Spekulatiusgewürz",
+    "2 TL Vanilleextrakt",
+    "6 Spekulatius - Kekse"
+  ],
+  "ingredient_groups": [
+    {
+      "ingredients": [
+        "250 g Spekulatius - Kekse",
+        "100 g Butter"
+      ],
+      "purpose": "Für den Boden"
+    },
+    {
+      "ingredients": [
+        "2 kleine Dosen Mandarine",
+        "4 Blatt Gelatine",
+        "400 g Doppelrahmfrischkäse",
+        "200 g Schmand",
+        "150 g Zucker",
+        "200 g Sahne",
+        "2 TL Spekulatiusgewürz",
+        "2 TL Vanilleextrakt",
+        "6 Spekulatius - Kekse"
+      ],
+      "purpose": "Für die Füllung"
+    }
+  ],
+  "instructions_list": [
+    "Eine Springform (Ø 26 cm) mit Backpapier auslegen. Für den Boden Spekulatiuskekse in einen Gefrierbeutel geben und mit einem Wellholz zu feinen Bröseln zerkleinern. 2 EL Brösel für die Dekoration beiseitestellen. Butter schmelzen und mit den Bröseln mischen, dann in die vorbereitete Springform geben und festdrücken.",
+    "Für die Füllung die Mandarinen durch ein Sieb schütten und abtropfen lassen. Gelatine für 5 Minuten in kaltem Wasser einweichen. Frischkäse, Schmand und Zucker glattrühren, dann die Sahne unter Rühren einfließen lassen. Spekulatiusgewürz und Vanilleextrakt unterrühren.",
+    "Die Gelatine gut ausdrücken und über dem heißen Wasserbad auflösen. 2-3 EL der Creme hinzugeben und gründlich untermischen. Gelatine-Creme-Mischung zur restlichen Creme geben und verrühren.",
+    "Mandarinen mit Küchenkrepp trocken tupfen und gleichmäßig auf dem Spekulatiusboden verteilen. Spekulatiuscreme darauf geben und glattstreichen. Den Spekulatius-Frischkäse-Kuchen ohne Backen für 6 Stunden kühlstellen.",
+    "Direkt vor dem Servieren der Spekulatius-Mandarinen-Torte ohne Backen die Spekulatiuskekse in der Mitte durchbrechen und die Hälften in den Rand einstecken, dann mit den Bröseln dekorieren. Der Spekulatius-Kuchen ohne Backen ergibt ca. 12 Stücke und hält sich für mindestens 3 Tage im Kühlschrank."
+  ],
+  "category": "Spekulatius",
+  "yields": "1 serving",
+  "description": "Spekulatius-Torte ohne Backen ist so weihnachtlich. Die einfache Torte mit Keksboden und Mandarinen gelingt mit unserer Anleitung garantiert. Dieses Rezept wirst du immer wieder machen.",
+  "total_time": 45,
+  "prep_time": 45,
+  "cuisine": "deutsche Rezepte",
+  "ratings": 4.88,
+  "ratings_count": 8,
+  "nutrients": {
+    "servingSize": "Portion"
+  },
+  "image": "https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/16_9/public/2024-04/spekulatius_torte_ohne_backen_1.jpg?h=68682ecd&itok=mzULlerf",
+  "keywords": [
+    "Anlässe",
+    "Weihnachten",
+    "Weihnachtsplätzchen",
+    "Spekulatius",
+    "Saison",
+    "Winter",
+    "Weihnachtstorte",
+    "Rezepte",
+    "Torten",
+    "Torte ohne Backen",
+    "Butter",
+    "Mandarine",
+    "Gelatine",
+    "Doppelrahmfrischkäse",
+    "Schmand",
+    "Zucker",
+    "Sahne",
+    "Spekulatiusgewürz",
+    "Vanilleextrakt"
+  ]
+}

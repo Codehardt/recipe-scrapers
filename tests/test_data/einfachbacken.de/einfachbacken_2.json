@@ -1,0 +1,48 @@
+{
+  "author": "Siggi Schuppler",
+  "canonical_url": "https://www.einfachbacken.de/rezepte/mango-smoothie-bowl-frisch-gesund-fruehstuecken",
+  "site_name": "Einfach Backen",
+  "host": "einfachbacken.de",
+  "language": "de",
+  "title": "Mango-Smoothie-Bowl – frisch & gesund frühstücken",
+  "ingredients": [
+    "2 EL Kokoschip",
+    "300 g Mango (ca. 2 reife Mangos)",
+    "1 Banane",
+    "200 g Sojajoghurt mit Kokos",
+    "2 EL Chia-Samen",
+    "1 Kiwi",
+    "1 Maracuja"
+  ],
+  "instructions_list": [
+    "Kokoschips in einer Pfanne ohne Fett anrösten, auf einem Küchenpapier abkühlen lassen. Mango mit einem Sparschäler schälen und links und rechts entlang des großen Kerns das Fruchtfleisch wegschneiden. Übrige Mango von dem Kern schneiden. Alternativ gibt es mittlerweile auch Mango aus dem Tiefkühlregal. Banane schälen und in Scheiben schneiden.",
+    "¼ der Mango in kleine Würfel schneiden und zum Garnieren beiseite stellen. Restliche Mango, Banane und Sojajoghurt fein pürieren. Für heiße Tage kannst du die Früchte gerne vorher einfrieren.",
+    "Püree gleichmäßig auf zwei Schüsseln (ca. 250 ml) verteilen. Kiwi schälen, halbieren und in Scheiben schneiden. Kurz vor dem Servieren mit den beiseite gestellten Mangowürfeln, Kiwi, Kokoschips und je 1 EL Chiasamen garnieren. Eine Maracuja halbieren und mit einem Teelöffel das Fruchtfleisch direkt auf die Bowl verteilen."
+  ],
+  "category": "Rezepte",
+  "yields": "2 servings",
+  "description": "So wird es schon beim Frühstück fruchtig und gesund! Frische Mango, cremiger Sojajoghurt und Chia-Samen sorgen für den perfekten Start in den Tag.",
+  "total_time": 20,
+  "cook_time": 20,
+  "cuisine": "deutsche Rezepte",
+  "ratings": 5.0,
+  "ratings_count": 1,
+  "nutrients": {
+    "servingSize": "Portion"
+  },
+  "image": "https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/16_9/public/2019-08/mango_smoothie_bowl_27337.jpg?h=4521fff0&itok=LJ1mSY7P",
+  "keywords": [
+    "Rezepte",
+    "Anlässe",
+    "Brunch",
+    "Saison",
+    "Sommer",
+    "Kokoschip",
+    "Mango",
+    "Banane",
+    "Sojajoghurt",
+    "Kiwi",
+    "Chia-Samen",
+    "Maracuja"
+  ]
+}
